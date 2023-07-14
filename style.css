@@ -6,7 +6,9 @@ nav h3{font-size:45px;font-weight: 800;letter-spacing:0.1em}
 nav h3 span{color:#FD6E0A}
 nav>ul{display: flex;}
 nav>ul li{margin-right:50px;list-style: none;font-weight:700;font-size: 20px;}
-.top-sec-out {background-image: url(header_bg.png);background-repeat: no-repeat;background-position: right bottom;background-color: #fffdef96;}
+.top-sec-out {background-image: url(header_bg.png), url(developer.png);
+    background-repeat: no-repeat;background-position: right bottom,left top;
+    background-color: #fffdef96;}
 .banner {
     justify-content: space-between;
     display: flex;
@@ -249,7 +251,6 @@ nav h3{font-size:45px;font-weight: 800;letter-spacing:0.1em}
 nav h3 span{color:#FD6E0A}
 nav>ul{display: flex;}
 nav>ul li{margin-right:50px;list-style: none;font-weight:700;font-size: 20px;}
-.top-sec-out {background-image: url(header_bg.png);background-repeat: no-repeat;background-position: right bottom;background-color: #ffefefb5;}
 .banner {
     justify-content: space-between;
     display: flex;
@@ -343,9 +344,6 @@ h3.resume-item-topbar {
     font-size: 30px;
     color: #262626;
 }
-
-h2.resume-item-title {}
-
 .resume-item {
     color: #4d4d4d;
 }

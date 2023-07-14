@@ -1,0 +1,396 @@
+body{font-family: 'Open Sans', sans-serif;}
+section{margin: auto;width: 1140px;}
+/* header related styles */
+nav{display:flex;justify-content: space-between;align-items: center;padding: 0px 16%;}
+nav h3{font-size:45px;font-weight: 800;letter-spacing:0.1em}
+nav h3 span{color:#FD6E0A}
+nav>ul{display: flex;}
+nav>ul li{margin-right:50px;list-style: none;font-weight:700;font-size: 20px;}
+.top-sec-out {background-image: url(header_bg.png);background-repeat: no-repeat;background-position: right bottom;background-color: #fffdef96;}
+.banner {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding: 30px 30px 0px 150px;
+}
+img.profile-pic {
+    width: 500px;
+}h3.banner-greeting {
+    color: #696969;
+    font-size: 48px;
+    margin-top: -40px;
+}
+
+h1.banner-title {
+    font-size: 80px;
+    margin: -53px 0px;body{font-family: 'Open Sans', sans-serif;}
+    section{margin: auto;width: 1140px;}
+    /* header related styles */
+    nav{display:flex;justify-content: space-between;align-items: center;padding: 0px 16%;}
+    nav h3{font-size:45px;font-weight: 800;letter-spacing:0.1em}
+    nav h3 span{color:#FD6E0A}
+    nav>ul{display: flex;}
+    nav>ul li{margin-right:50px;list-style: none;font-weight:700;font-size: 20px;}
+    .top-sec-out {background-image: url(header_bg.png);background-repeat: no-repeat;background-position: right bottom;background-color: #fffdef96;}
+    .banner {
+        justify-content: space-between;
+        display: flex;
+        align-items: center;
+        padding: 30px 30px 0px 150px;
+    }
+    img.profile-pic {
+        width: 500px;
+    }h3.banner-greeting {
+        color: #696969;
+        font-size: 48px;
+        margin-top: -40px;
+    }
+    
+    h1.banner-title {
+        font-size: 80px;
+        margin: -53px 0px;
+        color: #2b2b2b;
+    }
+    
+    p.banner-description {
+        margin-top: 70px;
+        margin-bottom: 36px;
+        width: 500px;
+    }
+    .btn-primary {
+        padding: 13px 30px;
+        border: none;
+        border-radius: 5px;
+        margin: -14px 0px;
+        font-size: 21px;
+        text-transform: capitalize;
+        font-weight: 750;
+        color: White;
+        background: #ff7c00;
+    }button.btn-primary:nth-child(2) {
+        width: 300px;
+    }
+    section.about {
+        width: 800px;
+        background: #ffdab942;
+        margin: 100px auto;
+        border-radius: 10px;
+        padding: 130px 150px;
+    }
+    
+    .section-title {text-align: center;font-size: 38px;color: #161616d4;}
+    
+    p.section-dec {
+        text-align: center;
+        color: #4e4c4ce3;
+        font-size: 19px;
+    }
+    
+    .about-into-container {
+        display: flex;
+        justify-content: space-around;
+        text-align: center;
+        font-size: 15px;
+    }
+    
+    /* skill related styels */
+    
+    .skill-container {
+        display: flex;
+        gap: 25px;
+        padding: 50px 0;
+        margin: 50px 50px;
+    }
+    
+    .skill-box {
+        border: 1px solid #e4e4e478;
+        padding: 35px 30px;
+    }
+    
+    .skill-box {}
+    
+    p.skill-dec {
+        color: #5b5757;
+    }
+    
+    p.section-dec.section-dec-two {
+        width: 70%;
+        margin: auto;
+    }.resume-column {
+        display: flex;
+        gap: 24px;
+    }
+    
+    h3.resume-item-topbar {
+        font-size: 30px;
+        color: #262626;
+    }
+    
+    h2.resume-item-title {}
+    
+    .resume-item {
+        color: #4d4d4d;
+    }
+    
+    .resume-container hr {
+        width: 85%;
+        margin-top: 25px;
+    }.download-cv {
+        text-align: center;
+        margin-top: 40px;
+        margin-bottom: 100px;
+    }
+    footer {
+        background: #ffe8d969;
+        display: flex;
+        gap: 15px;
+    }
+    
+    .footer-column {width: 50%;}
+    
+    p.section-dec {}
+    
+    .footer-column:first-child {
+    }
+    color: #2b2b2b;
+}
+
+p.banner-description {
+    margin-top: 70px;
+    margin-bottom: 36px;
+    width: 500px;
+}
+.btn-primary {
+    padding: 13px 30px;
+    border: none;
+    border-radius: 5px;
+    margin: -14px 0px;
+    font-size: 21px;
+    text-transform: capitalize;
+    font-weight: 750;
+    color: White;
+    background: #ff7c00;
+}button.btn-primary:nth-child(2) {
+    width: 300px;
+}
+section.about {
+    width: 800px;
+    background: #ffdab942;
+    margin: 100px auto;
+    border-radius: 10px;
+    padding: 130px 150px;
+}
+
+.section-title {text-align: center;font-size: 46px;color: #161616;}
+
+p.section-dec {
+    text-align: center;
+    color: #4e4c4ce3;
+    font-size: 19px;
+}
+
+.about-into-container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 15px;
+}
+
+/* skill related styels */
+
+.skill-container {
+    display: flex;
+    gap: 25px;
+    padding: 50px 0;
+    margin: 50px 50px;
+}
+
+.skill-box {
+    border: 1px solid #e4e4e478;
+    padding: 35px 30px;
+}
+
+.skill-box {}
+
+p.skill-dec {
+    color: #5b5757;
+}
+
+p.section-dec.section-dec-two {
+    width: 70%;
+    margin: auto;
+}.resume-column {
+    display: flex;
+    gap: 24px;
+}
+
+h3.resume-item-topbar {
+    font-size: 30px;
+    color: #262626;
+}
+
+h2.resume-item-title {}
+
+.resume-item {
+    color: #4d4d4d;
+}
+
+.resume-container hr {
+    width: 85%;
+    margin-top: 25px;
+}.download-cv {
+    text-align: center;
+    margin-top: 30px;
+}body{font-family: 'Open Sans', sans-serif;}
+section{margin: auto;width: 1140px;}
+/* header related styles */
+nav{display:flex;justify-content: space-between;align-items: center;padding: 0px 16%;}
+nav h3{font-size:45px;font-weight: 800;letter-spacing:0.1em}
+nav h3 span{color:#FD6E0A}
+nav>ul{display: flex;}
+nav>ul li{margin-right:50px;list-style: none;font-weight:700;font-size: 20px;}
+.top-sec-out {background-image: url(header_bg.png);background-repeat: no-repeat;background-position: right bottom;background-color: #ffefefb5;}
+.banner {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    padding: 30px 30px 0px 150px;
+}
+img.profile-pic {
+    width: 500px;
+}h3.banner-greeting {
+    color: #696969;
+    font-size: 48px;
+    margin-top: -40px;
+}
+
+h1.banner-title {
+    font-size: 80px;
+    margin: -53px 0px;
+    color: #2b2b2b;
+}
+
+p.banner-description {
+    margin-top: 70px;
+    margin-bottom: 36px;
+    width: 500px;
+}
+.btn-primary {
+    padding: 14px 31px;
+    border: none;
+    border-radius: 4px;
+    font-size: 21px;
+    text-transform: capitalize;
+    font-weight: 700;
+    color: White;
+    background: #ff7c00;
+}button.btn-primary:nth-child(2) {
+    width: 300px;
+}
+section.about {
+    width: 800px;
+    background: #c5c5c56e;
+    margin: 100px auto;
+    border-radius: 10px;
+    padding: 130px 150px;
+}
+
+.section-title {text-align: center;font-size: 38px;color: #161616d4;}
+
+p.section-dec {
+    text-align: center;
+    color: #4e4c4ce3;
+    font-size: 19px;
+}
+
+.about-into-container {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-size: 15px;
+}
+
+/* skill related styels */
+
+.skill-container {
+    display: flex;
+    gap: 25px;
+    padding: 50px 0;
+    margin: 50px 50px;
+}
+
+.skill-box {
+    border: 1px solid #e4e4e478;
+    padding: 35px 30px;
+    box-shadow: 0px 0px 20px #cfcfcfb0;
+}
+
+.skill-box {}
+
+p.skill-dec {
+    color: #5b5757;
+}
+
+p.section-dec.section-dec-two {
+    width: 70%;
+    margin: auto;
+}.resume-column {
+    display: flex;
+    gap: 24px;
+}
+
+h3.resume-item-topbar {
+    font-size: 30px;
+    color: #262626;
+}
+
+h2.resume-item-title {}
+
+.resume-item {
+    color: #4d4d4d;
+}
+
+.resume-container hr {
+    width: 85%;
+    margin-top: 25px;
+}.download-cv {
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 100px;
+}
+footer {
+    background: #ffe8d969;
+    display: flex;
+    gap: 15px;
+}
+
+.footer-column {width: 50%;padding: 70px 90px;}
+
+p.section-dec {}
+
+.footer-column:first-child {
+}
+.footer-logo a {
+    margin-right: 25px;
+}
+
+form input {
+    display: block;
+    width: 80%;
+    padding: 15px 30px;
+    margin: 20px 0px;
+    border: none;
+    border-radius: 4px;
+}
+
+input.btn-primary {
+    margin: 21px 0px;
+    width: 35%;
+}
+
+textarea {
+    border: none;
+    border-radius: 6px;
+    padding: 18px 30px;
+    width: 80%;
+}
